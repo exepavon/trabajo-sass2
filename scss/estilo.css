@@ -1,0 +1,57 @@
+body {
+  background-color: #9b4696;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer, header {
+  text-align: center;
+  padding-top: 20px;
+  color: white;
+  height: 50px;
+}
+
+.productos {
+  background-color: #eec2c2;
+  border-radius: 5px;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.productos h2 {
+  color: #9b4696;
+}
+
+.productos p {
+  color: #532650;
+}
+
+.servicios {
+  background-color: #a7e3ec;
+  border-radius: 5px;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.servicios h2 {
+  color: #9b4696;
+}
+
+.servicios p {
+  color: #532650;
+}
+
+.extras {
+  background-color: #e9e6c1;
+  border-radius: 5px;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.extras h2 {
+  color: #9b4696;
+}
+
+.extras p {
+  color: #532650;
+}
+/*# sourceMappingURL=estilo.css.map */

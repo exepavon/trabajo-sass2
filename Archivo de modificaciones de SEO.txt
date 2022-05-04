@@ -1,0 +1,8 @@
+Detallo las siguientes modificaciones:
+
+keywords: Se agregaron palabras claves como mascotas alimentos perros gatos para que tengan mas busquedas
+
+Title:Cambie el titulo de Mascotas a Mundo Mascotas
+
+Description: se agrego la sigueinte descripcion: Todo para tu mascotas alimentos juguetes y servicios veterinarios las 24hs.
+
